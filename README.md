@@ -1,3 +1,5 @@
+This is a fork of https://github.com/afex-connect/react-rut which adds new functionalities
+
 # React RUT
 
 The goal of this bundle is provide a chilean RUT utilities for [React].
@@ -27,9 +29,9 @@ const Component: React.FC = () => {
   const [{ formattedValue }, setRut] = useRut();
 
   return (
-    <input
-      value={formattedValue}
+    <input 
       onChange={(e) => setRut(e.target.value)}
+      value={formattedValue}
     />
   );
 };
