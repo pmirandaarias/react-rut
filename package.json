@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afex-connect/react-rut.git"
+    "url": "git+https://github.com/pmirandaarias/react-rut.git"
   },
   "author": "Paulo Miranda <pmirandaarias@gmail.com>",
   "bugs": {
