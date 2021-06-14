@@ -1,6 +1,6 @@
 {
   "name": "react-rut",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chilean RUT for React",
   "keywords": [
     "react",
@@ -22,15 +22,15 @@
     "type": "git",
     "url": "git+https://github.com/afex-connect/react-rut.git"
   },
-  "author": "Elvis Munoz <elvis.munoz.f@gmail.com>",
+  "author": "Paulo Miranda <pmirandaarias@gmail.com>",
   "bugs": {
-    "url": "https://github.com/afex-connect/react-rut/issues"
+    "url": "https://github.com/pmirandaarias/react-rut/issues"
   },
-  "homepage": "https://github.com/afex-connect/react-rut#readme",
+  "homepage": "https://github.com/pmirandaarias/react-rut#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.15",
-    "@types/node": "^14.14.10",
-    "@types/react": "^17.0.0",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.2",
+    "@types/react": "^17.0.11",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
     "@typescript-eslint/parser": "^4.8.2",
     "eslint": "^7.14.0",
@@ -42,12 +42,12 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-standard": "^5.0.0",
-    "husky": "^4.3.0",
-    "jest": "^26.6.3",
+    "husky": "^6.0.0",
+    "jest": "^27.0.4",
     "lint-staged": "^10.5.2",
-    "react": "^17.0.1",
-    "ts-jest": "^26.4.4",
-    "typescript": "^4.1.2"
+    "react": "^17.0.2",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.2"
   },
   "husky": {
     "hooks": {
